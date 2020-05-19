@@ -76,7 +76,7 @@ var sampler = new Tone.Sampler({
 	"C3" : "c.wav",
 	"D3" : "d.wav",
 	"G3" : "g.wav",
-	"E3" : "em.wav"
+	"E3" : "e.wav"
 }, function(){
   
     red.onclick = function () {
